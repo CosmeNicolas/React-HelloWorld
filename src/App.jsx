@@ -1,12 +1,18 @@
-import { useState } from 'react'
+import "bootstrap/dist/css/bootstrap.min.css"
 import './App.css'
+import { Container } from "react-bootstrap"
+import HelloWorld from "./components/HelloWorld"
+import Footer from './components/Footer'
 
 function App() {
-  const [count, setCount] = useState(0)
+ 
 
   return (
     <>
-     
+    <Container className="mainPage">
+     <HelloWorld/>
+    </Container>
+     <Footer/>
     </>
   )
 }

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@500&display=swap');
+
+body{
+  background-image: radial-gradient(circle 939px at 94.7% 50%, rgb(6, 148, 141) 0%, rgb(2, 38, 36) 76.9%);
+}
+
+h1{
+  font-family: 'Playpen Sans', cursive;
+}
+
+
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.mainPage {
+  flex-grow: 1;
+}
