@@ -18,14 +18,14 @@ Abre tu terminal y ejecuta el sigueinte comando para clonar el repositorio.
 
 
 
-### Instalar Dpendencias
+### Instalar Dpendencias 💻
 
 Una vez que estés dentro del directorio del proyecto, instala las dependencias utilizando npm install:
 
 - npm install
 
 
-### Ejecuta la Aplicación 
+### Ejecuta la Aplicación 👨‍💻
 
 Una vez que todas las dependencias estén instaladas, puedes ejecutar la aplicación utilizando el siguiente comando :
 
