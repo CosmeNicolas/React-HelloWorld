@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-    <Container className="mainPage">
+    <Container className="mainPage text-center mt-2">
      <HelloWorld/>
     </Container>
      <Footer/>

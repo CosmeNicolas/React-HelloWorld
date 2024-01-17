@@ -1,4 +1,3 @@
-import React from "react"
 import hello  from "../components/img/Hello.gif";
 
 const HelloWorld = () => {
